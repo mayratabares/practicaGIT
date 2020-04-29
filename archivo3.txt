@@ -1,4 +1,6 @@
-Este es mi primer archivo, EN MI PRIMERA RAMA 
+<<<<<<< HEAD
+Este es mi primer archivo, EN MI PRIMERA RAMA "agregue esto también"
+esto lo agregué en github
 y esta es una nueva linea para causar diferencia con lo 
 que está en el repositorio 
 ya que subí mi primera rama seguiré editando :P 
