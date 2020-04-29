@@ -1,2 +1,4 @@
-Este es mi primer archivo, en mi primera rama
+Este es mi primer archivo, EN MI PRIMERA RAMA 
+y esta es una nueva linea para causar diferencia con lo 
+que está en el repositorio 
 ya que subí mi primera rama seguiré editando :P 
