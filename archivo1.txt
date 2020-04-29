@@ -1,2 +1,3 @@
 mi primera linea
 sigo editando mi archivo
+Lo edito sin saber que han subido un cambio
