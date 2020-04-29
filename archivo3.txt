@@ -1,2 +1,3 @@
-Este es mi primer archivo, en mi primera rama
+Este es mi primer archivo, en mi primera RAMA "agregue esto también"
+esto lo agregué en github
 ya que subí mi primera rama seguiré editando :P 
